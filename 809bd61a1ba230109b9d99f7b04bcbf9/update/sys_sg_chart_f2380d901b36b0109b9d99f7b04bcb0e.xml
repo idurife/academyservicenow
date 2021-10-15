@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Nav Prueba Dashboard - Chart">8f38c19c1b36b0109b9d99f7b04bcba7</jump_to_screen>
+        <name>Prueba Dashboard</name>
+        <report display_value="Business Services by Location">01a8f532df01110068c37a0d3df2635a</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 16:18:39</sys_created_on>
+        <sys_id>f2380d901b36b0109b9d99f7b04bcb0e</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Prueba Dashboard</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_chart_f2380d901b36b0109b9d99f7b04bcb0e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:50:58</sys_updated_on>
+        <title/>
+        <type>report</type>
+        <widget display_value="% of incidents resolved without reassignment">13166e55eb7302001e68286b1206fef3</widget>
+    </sys_sg_chart>
+</record_update>

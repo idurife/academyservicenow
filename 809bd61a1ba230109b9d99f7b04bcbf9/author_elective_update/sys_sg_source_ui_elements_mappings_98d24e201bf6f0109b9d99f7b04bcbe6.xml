@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_source_ui_elements_mappings">
+    <sys_sg_source_ui_elements_mappings action="DELETE">
+        <source>b2def5e81bb6f0109b9d99f7b04bcbdc</source>
+        <source_table>sys_sg_ui_parameter</source_table>
+        <sys_class_name>sys_sg_source_ui_elements_mappings</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 15:14:30</sys_created_on>
+        <sys_id>98d24e201bf6f0109b9d99f7b04bcbe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_source_ui_elements_mappings_98d24e201bf6f0109b9d99f7b04bcbe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 15:14:30</sys_updated_on>
+        <ui_element display_value="nombres">b1d202601bf6f0109b9d99f7b04bcbd8</ui_element>
+    </sys_sg_source_ui_elements_mappings>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_source_ui_elements_mappings_98d24e201bf6f0109b9d99f7b04bcbe6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_source_ui_elements_mappings"><sys_sg_source_ui_elements_mappings action="INSERT_OR_UPDATE"><source>b2def5e81bb6f0109b9d99f7b04bcbdc</source><source_table>sys_sg_ui_parameter</source_table><sys_class_name>sys_sg_source_ui_elements_mappings</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-21 15:14:30</sys_created_on><sys_id>98d24e201bf6f0109b9d99f7b04bcbe6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_source_ui_elements_mappings_98d24e201bf6f0109b9d99f7b04bcbe6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-21 15:14:30</sys_updated_on><ui_element display_value="nombres">b1d202601bf6f0109b9d99f7b04bcbd8</ui_element></sys_sg_source_ui_elements_mappings></record_update>]]></payload>
+        <payload_hash>1366781022</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 15:14:30</sys_created_on>
+        <sys_id>0d2302601bf6f0109b9d99f7b04bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c08ec376b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 15:14:30</sys_updated_on>
+        <type>Source UI element mapping</type>
+        <update_guid>0523026097f6f01053e564ce4d60c7e2</update_guid>
+        <update_guid_history>0523026097f6f01053e564ce4d60c7e2:1366781022</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 15:56:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_source_ui_elements_mappings">sys_sg_source_ui_elements_mappings</sys_db_object>
+        <sys_id>05e1a0a855b345128042fd26ed507504</sys_id>
+        <sys_metadata>98d24e201bf6f0109b9d99f7b04bcbe6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_source_ui_elements_mappings_98d24e201bf6f0109b9d99f7b04bcbe6</sys_update_name>
+        <sys_update_version display_value="sys_sg_source_ui_elements_mappings_98d24e201bf6f0109b9d99f7b04bcbe6">0d2302601bf6f0109b9d99f7b04bcbe2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 15:56:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

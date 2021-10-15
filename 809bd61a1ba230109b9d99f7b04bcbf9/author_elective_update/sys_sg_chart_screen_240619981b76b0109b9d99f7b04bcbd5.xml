@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="DELETE">
+        <available_offline>true</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Edit">a00619981b76b0109b9d99f7b04bcbd1</icon>
+        <name>Dashodard -demo1</name>
+        <report display_value="On-Call: HoursDistribution by User - 7 days">318b96b3c71700107223e122c7c26059</report>
+        <roles_override>admin</roles_override>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:18:50</sys_created_on>
+        <sys_id>240619981b76b0109b9d99f7b04bcbd5</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Dashodard -demo1</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_240619981b76b0109b9d99f7b04bcbd5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:36:47</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>PA</type>
+        <use_last_point>false</use_last_point>
+        <widget display_value="Net New Scores">9b69701a1357b20005ef54c32244b0b6</widget>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="DELETE" query="documentkey=240619981b76b0109b9d99f7b04bcbd5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_chart_screen_240619981b76b0109b9d99f7b04bcbd5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen"><sys_sg_chart_screen action="INSERT_OR_UPDATE"><available_offline>true</available_offline><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="icon-Edit">a00619981b76b0109b9d99f7b04bcbd1</icon><name>Dashodard -demo1</name><report display_value="On-Call: HoursDistribution by User - 7 days">318b96b3c71700107223e122c7c26059</report><roles_override>admin</roles_override><sys_class_name>sys_sg_chart_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-20 17:18:50</sys_created_on><sys_id>240619981b76b0109b9d99f7b04bcbd5</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Dashodard -demo1</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_chart_screen_240619981b76b0109b9d99f7b04bcbd5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-20 17:36:47</sys_updated_on><tool_tip>true</tool_tip><type>PA</type><use_last_point>false</use_last_point><widget display_value="Net New Scores">9b69701a1357b20005ef54c32244b0b6</widget></sys_sg_chart_screen><sys_translated_text action="delete_multiple" query="documentkey=240619981b76b0109b9d99f7b04bcbd5"/></record_update>]]></payload>
+        <payload_hash>1507845250</payload_hash>
+        <record_name>Dashodard -demo1</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:36:47</sys_created_on>
+        <sys_id>631ad1dc1b76b0109b9d99f7b04bcba3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c04481eb90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:36:47</sys_updated_on>
+        <type>Chart screen</type>
+        <update_guid>2b1ad1dc0e76b010a1aa4385a51649a2</update_guid>
+        <update_guid_history>2b1ad1dc0e76b010a1aa4385a51649a2:1507845250,bb18555c7076b010e745793ddd899037:-293251480,96679dd4af76b010a4e5ff5ecadbfe32:912373547,2d57d51c8f76b01059c65e7e3f543533:1812676299,ef3795d81176b0103d8c276a0e7d029a:-2040118827,28061998e776b01090080aa6cdbb06d7:-1275037188</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:38:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_chart_screen">sys_sg_chart_screen</sys_db_object>
+        <sys_id>0b3506cef4e540f18245c91bee30ed09</sys_id>
+        <sys_metadata>240619981b76b0109b9d99f7b04bcbd5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashodard -demo1</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_chart_screen_240619981b76b0109b9d99f7b04bcbd5</sys_update_name>
+        <sys_update_version display_value="sys_sg_chart_screen_240619981b76b0109b9d99f7b04bcbd5">631ad1dc1b76b0109b9d99f7b04bcba3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:38:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

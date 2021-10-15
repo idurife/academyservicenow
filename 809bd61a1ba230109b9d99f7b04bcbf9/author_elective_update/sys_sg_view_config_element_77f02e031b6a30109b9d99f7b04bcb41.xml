@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>text_02_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-17 01:34:04</sys_created_on>
+        <sys_id>77f02e031b6a30109b9d99f7b04bcb41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_02_element</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_77f02e031b6a30109b9d99f7b04bcb41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-17 01:34:04</sys_updated_on>
+        <view_config display_value="Curso List Screen View Config">5c359f2a1b2670109b9d99f7b04bcb8d</view_config>
+        <view_template_slot display_value="text_02">8a5f1a8f1b2a30109b9d99f7b04bcbb4</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_view_config_element_77f02e031b6a30109b9d99f7b04bcb41</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>text_02_element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-17 01:34:04</sys_created_on><sys_id>77f02e031b6a30109b9d99f7b04bcb41</sys_id><sys_mod_count>0</sys_mod_count><sys_name>text_02_element</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_view_config_element_77f02e031b6a30109b9d99f7b04bcb41</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-17 01:34:04</sys_updated_on><view_config display_value="Curso List Screen View Config">5c359f2a1b2670109b9d99f7b04bcb8d</view_config><view_template_slot display_value="text_02">8a5f1a8f1b2a30109b9d99f7b04bcbb4</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>-760318328</payload_hash>
+        <record_name>text_02_element</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-17 01:34:04</sys_created_on>
+        <sys_id>f3f02e031b6a30109b9d99f7b04bcb43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bf163a5a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-17 01:34:04</sys_updated_on>
+        <type>View Config Element</type>
+        <update_guid>3ff02e03196a3010ac3f58eb570ff142</update_guid>
+        <update_guid_history>3ff02e03196a3010ac3f58eb570ff142:-760318328</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-17 01:37:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>1688f8e4510c4b20843445db4025c764</sys_id>
+        <sys_metadata>77f02e031b6a30109b9d99f7b04bcb41</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_02_element</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_77f02e031b6a30109b9d99f7b04bcb41</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_77f02e031b6a30109b9d99f7b04bcb41">f3f02e031b6a30109b9d99f7b04bcb43</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-17 01:37:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

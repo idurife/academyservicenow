@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Alumno)">98359f2a1b2670109b9d99f7b04bcb60</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="Bag">081d8da2b72200108223e126de11a9c9</icon>
+        <label>Edicion</label>
+        <location>media_section</location>
+        <name>Prueba function imagen</name>
+        <order/>
+        <parent>6cd98b6e1be270109b9d99f7b04bcbe8</parent>
+        <parent_table>x_652573_academy_alumno</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 01:22:58</sys_created_on>
+        <sys_id>5670783b1ba630109b9d99f7b04bcb04</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Prueba function imagen</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5670783b1ba630109b9d99f7b04bcb04</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-19 21:57:56</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5670783b1ba630109b9d99f7b04bcb04"/>
+</record_update>

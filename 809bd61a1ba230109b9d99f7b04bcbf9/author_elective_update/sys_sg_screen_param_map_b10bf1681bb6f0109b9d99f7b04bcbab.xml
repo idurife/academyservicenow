@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="DELETE">
+        <item_parameter display_value="Name">231a79e41bb6f0109b9d99f7b04bcbb8</item_parameter>
+        <screen display_value="CallerXAlumno-1">076f21c31ba630109b9d99f7b04bcb15</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 14:39:03</sys_created_on>
+        <sys_id>b10bf1681bb6f0109b9d99f7b04bcbab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>231a79e41bb6f0109b9d99f7b04bcbb8</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_b10bf1681bb6f0109b9d99f7b04bcbab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 14:39:03</sys_updated_on>
+        <ui_parameter display_value="Name">884afde41bb6f0109b9d99f7b04bcb18</ui_parameter>
+    </sys_sg_screen_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_screen_param_map_b10bf1681bb6f0109b9d99f7b04bcbab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map"><sys_sg_screen_param_map action="INSERT_OR_UPDATE"><item_parameter display_value="Name">231a79e41bb6f0109b9d99f7b04bcbb8</item_parameter><screen display_value="CallerXAlumno-1">076f21c31ba630109b9d99f7b04bcb15</screen><sys_class_name>sys_sg_screen_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-21 14:39:03</sys_created_on><sys_id>b10bf1681bb6f0109b9d99f7b04bcbab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>231a79e41bb6f0109b9d99f7b04bcbb8</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_screen_param_map_b10bf1681bb6f0109b9d99f7b04bcbab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-21 14:39:03</sys_updated_on><ui_parameter display_value="Name">884afde41bb6f0109b9d99f7b04bcb18</ui_parameter></sys_sg_screen_param_map></record_update>]]></payload>
+        <payload_hash>-531306815</payload_hash>
+        <record_name>231a79e41bb6f0109b9d99f7b04bcbb8</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 14:39:03</sys_created_on>
+        <sys_id>390bf1681bb6f0109b9d99f7b04bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c08cbc2520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 14:39:03</sys_updated_on>
+        <type>Screen parameters mapping</type>
+        <update_guid>310bf168f7b6f010c06a5b62a1798cae</update_guid>
+        <update_guid_history>310bf168f7b6f010c06a5b62a1798cae:-531306815</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 14:46:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_param_map">sys_sg_screen_param_map</sys_db_object>
+        <sys_id>53499b714af64b0cb3a59824b40d3424</sys_id>
+        <sys_metadata>b10bf1681bb6f0109b9d99f7b04bcbab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>231a79e41bb6f0109b9d99f7b04bcbb8</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_param_map_b10bf1681bb6f0109b9d99f7b04bcbab</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_param_map_b10bf1681bb6f0109b9d99f7b04bcbab">390bf1681bb6f0109b9d99f7b04bcbae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 14:46:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

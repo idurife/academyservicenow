@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_02_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-17 17:42:54</sys_created_on>
+        <sys_id>73be7d1f1b6670109b9d99f7b04bcb1c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_02_element</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_73be7d1f1b6670109b9d99f7b04bcb1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-17 17:42:54</sys_updated_on>
+        <view_config display_value="Employee Form View Config">adcdbddb1b6670109b9d99f7b04bcb02</view_config>
+        <view_template_slot display_value="text_02">73af6f930f202010e70a4abec4767e7d</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

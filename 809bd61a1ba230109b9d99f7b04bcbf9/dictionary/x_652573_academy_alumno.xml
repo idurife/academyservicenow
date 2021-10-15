@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Alumno" max_length="40" name="x_652573_academy_alumno" sizeclass="5" text_index="true" type="collection">
+        <element label="Adjunto" max_length="40" name="adjunto" type="file_attachment"/>
+        <element label="Apellidos" max_length="200" name="apellidos" type="string"/>
+        <element label="Asset tag" max_length="250" name="asset_tag" type="string"/>
+        <element label="Descripcion" max_length="32" name="descripcion" reference="checklist" type="reference"/>
+        <element label="Descripcionby html" max_length="8000" name="descripcionby_html" type="html"/>
+        <element label="Edad" max_length="40" name="edad" type="integer"/>
+        <element display="true" label="Nombres" max_length="40" name="nombres" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Request for" max_length="32" name="request_for" reference="sys_user" type="reference"/>
+        <element label="Video" max_length="40" name="video" type="video"/>
+        <index name="index">
+            <element name="descripcion"/>
+        </index>
+        <index name="index2">
+            <element name="request_for"/>
+        </index>
+    </element>
+</database>

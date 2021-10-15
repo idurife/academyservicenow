@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Academy">7cd44be71b2230109b9d99f7b04bcb6a</applet_launcher>
+        <icon display_value="Home Academy">4c355f2a1b2670109b9d99f7b04bcb79</icon>
+        <label>Academy</label>
+        <roles>x_652573_academy.casillero_user,x_652573_academy.curso_user,x_652573_academy.deuda_user</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-15 16:05:08</sys_created_on>
+        <sys_id>0c355f2a1b2670109b9d99f7b04bcb79</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Academy</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_0c355f2a1b2670109b9d99f7b04bcb79</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-18 18:01:36</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

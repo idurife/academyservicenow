@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Deuda</name>
+        <order>100</order>
+        <roles>x_652573_academy.deuda_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 17:48:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4b532ede1ba230109b9d99f7b04bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deuda</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_app_application_4b532ede1ba230109b9d99f7b04bcb3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 17:48:57</sys_updated_on>
+        <title>Deuda</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_app_application_4b532ede1ba230109b9d99f7b04bcb3a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Deuda</name><order>100</order><roles>x_652573_academy.deuda_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-14 17:48:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4b532ede1ba230109b9d99f7b04bcb3a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Deuda</sys_name><sys_overrides/><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_app_application_4b532ede1ba230109b9d99f7b04bcb3a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-14 17:48:57</sys_updated_on><title>Deuda</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1394504343</payload_hash>
+        <record_name>Deuda</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 17:48:57</sys_created_on>
+        <sys_id>8b532ede1ba230109b9d99f7b04bcb3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17be56d19280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 17:48:57</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c3532ede0da23010aef9741339090e3c</update_guid>
+        <update_guid_history>c3532ede0da23010aef9741339090e3c:-1394504343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Deuda">e094ae121be230109b9d99f7b04bcbd5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 17:54:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0e4c7243986640e092a535c6b0a7cc10</sys_id>
+        <sys_metadata>4b532ede1ba230109b9d99f7b04bcb3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deuda</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_app_application_4b532ede1ba230109b9d99f7b04bcb3a</sys_update_name>
+        <sys_update_version display_value="sys_app_application_4b532ede1ba230109b9d99f7b04bcb3a">8b532ede1ba230109b9d99f7b04bcb3c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 17:54:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

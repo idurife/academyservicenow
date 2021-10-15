@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Academy">7cd44be71b2230109b9d99f7b04bcb6a</applet_launcher>
+        <order>100</order>
+        <section display_value="Dashboards">6529c19c1b36b0109b9d99f7b04bcbdf</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 16:22:39</sys_created_on>
+        <sys_id>a129c19c1b36b0109b9d99f7b04bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_a129c19c1b36b0109b9d99f7b04bcbe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 16:22:39</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_a129c19c1b36b0109b9d99f7b04bcbe3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Academy">7cd44be71b2230109b9d99f7b04bcb6a</applet_launcher><order>100</order><section display_value="Dashboards">6529c19c1b36b0109b9d99f7b04bcbdf</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-20 16:22:39</sys_created_on><sys_id>a129c19c1b36b0109b9d99f7b04bcbe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_a129c19c1b36b0109b9d99f7b04bcbe3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-20 16:22:39</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-1043349594</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 16:22:39</sys_created_on>
+        <sys_id>a929c19c1b36b0109b9d99f7b04bcbe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c04043fd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 16:22:39</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>a129c19cda36b01080603a3e7a8926e5</update_guid>
+        <update_guid_history>a129c19cda36b01080603a3e7a8926e5:-1043349594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:42:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>0583c3b7422042dc85164ecf225d7869</sys_id>
+        <sys_metadata>a129c19c1b36b0109b9d99f7b04bcbe3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_a129c19c1b36b0109b9d99f7b04bcbe3</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_a129c19c1b36b0109b9d99f7b04bcbe3">a929c19c1b36b0109b9d99f7b04bcbe5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:42:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

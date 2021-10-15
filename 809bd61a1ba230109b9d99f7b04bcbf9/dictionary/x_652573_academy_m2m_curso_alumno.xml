@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Curso_Alumno" max_length="40" name="x_652573_academy_m2m_curso_alumno" sizeclass="3" type="collection">
+        <element attributes="encode_utf8=false" label="Alumno" max_length="32" name="alumno" reference="x_652573_academy_alumno" type="reference"/>
+        <element attributes="encode_utf8=false" label="Curso" max_length="32" name="curso" reference="x_652573_academy_curso" type="reference"/>
+        <element label="Fecha Inscripcion" max_length="40" name="fecha_inscripcion" type="glide_date_time"/>
+        <index name="index">
+            <element name="curso"/>
+        </index>
+        <index name="index2">
+            <element name="alumno"/>
+        </index>
+    </element>
+</database>

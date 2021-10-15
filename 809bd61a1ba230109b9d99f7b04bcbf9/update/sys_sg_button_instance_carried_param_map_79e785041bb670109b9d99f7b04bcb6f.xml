@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance_carried_param_map">
+    <sys_sg_button_instance_carried_param_map action="INSERT_OR_UPDATE">
+        <button_instance display_value="Prueba function imagen">5670783b1ba630109b9d99f7b04bcb04</button_instance>
+        <button_ui_parameter display_value="Sys ID">50359f2a1b2670109b9d99f7b04bcb62</button_ui_parameter>
+        <screen_ui_parameter display_value="Nombres">10359f2a1b2670109b9d99f7b04bcb3d</screen_ui_parameter>
+        <sys_class_name>sys_sg_button_instance_carried_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 21:39:27</sys_created_on>
+        <sys_id>79e785041bb670109b9d99f7b04bcb6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>10359f2a1b2670109b9d99f7b04bcb3d</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_carried_param_map_79e785041bb670109b9d99f7b04bcb6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-19 21:39:27</sys_updated_on>
+    </sys_sg_button_instance_carried_param_map>
+</record_update>

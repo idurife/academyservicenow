@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Curso" max_length="40" name="x_652573_academy_curso" sizeclass="3" type="collection">
+        <element label="Descripcion" max_length="200" name="descripcion" type="string"/>
+        <element label="Nombre" max_length="80" name="nombre" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

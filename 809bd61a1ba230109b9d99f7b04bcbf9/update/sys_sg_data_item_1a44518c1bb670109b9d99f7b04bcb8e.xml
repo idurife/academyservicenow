@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>script</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Data item ListaAlumnosQuery</name>
+        <query_condition/>
+        <query_condition_script><![CDATA[(function getQueryString(input) {
+    //Type appropriate comment here, and begin script below
+    var queryString = '';
+   
+		  queryString += "edadBETWEEN12@30";
+	
+	if(input.nombres) {
+	  queryString += "^nombres="+input.nombres;
+	 }
+
+
+    return queryString; 
+})(input);]]></query_condition_script>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-19 22:32:50</sys_created_on>
+        <sys_id>1a44518c1bb670109b9d99f7b04bcb8e</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Data item ListaAlumnosQuery</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_data_item_1a44518c1bb670109b9d99f7b04bcb8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 22:30:19</sys_updated_on>
+        <table>x_652573_academy_alumno</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a44518c1bb670109b9d99f7b04bcb8e"/>
+</record_update>

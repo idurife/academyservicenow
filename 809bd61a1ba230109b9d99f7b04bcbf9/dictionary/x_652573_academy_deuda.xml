@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Deuda" max_length="40" name="x_652573_academy_deuda" sizeclass="3" type="collection">
+        <element label="Alumno" max_length="32" name="alumno" reference="x_652573_academy_alumno" type="reference"/>
+        <element label="Monto" max_length="20" name="monto" type="decimal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="alumno"/>
+        </index>
+    </element>
+</database>

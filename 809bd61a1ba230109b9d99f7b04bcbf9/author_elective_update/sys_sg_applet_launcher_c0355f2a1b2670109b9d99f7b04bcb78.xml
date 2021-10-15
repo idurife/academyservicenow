@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value=" Launcher Button Instance">42eaf15b1b6670109b9d99f7b04bcb25</header_button>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Academy</name>
+        <required_roles>x_652573_academy.casillero_user,x_652573_academy.curso_user,x_652573_academy.deuda_user,admin</required_roles>
+        <search_config display_value="Search customer academy">7232ae9f1be670109b9d99f7b04bcb42</search_config>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-15 16:05:08</sys_created_on>
+        <sys_id>c0355f2a1b2670109b9d99f7b04bcb78</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Academy</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_c0355f2a1b2670109b9d99f7b04bcb78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-17 20:37:01</sys_updated_on>
+        <title>Academy</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_applet_launcher_c0355f2a1b2670109b9d99f7b04bcb78</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button display_value=" Launcher Button Instance">42eaf15b1b6670109b9d99f7b04bcb25</header_button><header_titles/><hide_empty_sections>true</hide_empty_sections><name>Academy</name><required_roles>x_652573_academy.casillero_user,x_652573_academy.curso_user,x_652573_academy.deuda_user,admin</required_roles><search_config display_value="Search customer academy">7232ae9f1be670109b9d99f7b04bcb42</search_config><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-15 16:05:08</sys_created_on><sys_id>c0355f2a1b2670109b9d99f7b04bcb78</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Academy</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_applet_launcher_c0355f2a1b2670109b9d99f7b04bcb78</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-17 20:37:01</sys_updated_on><title>Academy</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-1325922852</payload_hash>
+        <record_name>Academy</record_name>
+        <reverted_from/>
+        <source>c1d181836d6620100acb70b3534330af</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-17 20:37:01</sys_created_on>
+        <sys_id>9a9626d31b2a70109b9d99f7b04bcb71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bf57a0bb60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-17 20:37:01</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>929626d3d42a70102beb470f6471b971</update_guid>
+        <update_guid_history>929626d3d42a70102beb470f6471b971:-1325922852,e4e20a5382a670100474e5df511cf2a8:452788405,c6eaf15bc3667010b964ff0df5cfb12a:2132363768,00da715b8466701041038bb63f6df873:-864244147,24e4eab61322b01016a8d916786f55f2:418818102,2435df2ad8267010b7737155695f0c79:-492710050</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-18 17:27:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>0f5cf0d357964c608b7128e94a469590</sys_id>
+        <sys_metadata>c0355f2a1b2670109b9d99f7b04bcb78</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Academy</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_c0355f2a1b2670109b9d99f7b04bcb78</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_c0355f2a1b2670109b9d99f7b04bcb78">9a9626d31b2a70109b9d99f7b04bcb71</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-18 17:27:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

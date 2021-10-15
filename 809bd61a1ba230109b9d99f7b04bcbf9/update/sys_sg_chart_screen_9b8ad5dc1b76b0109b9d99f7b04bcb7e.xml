@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_screen">
+    <sys_sg_chart_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>prueba</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">0f8ad5dc1b76b0109b9d99f7b04bcb7b</icon>
+        <name>Dashboard demo2</name>
+        <report display_value="Incorrect Answers by Assigned User">0b287945df72210068c37a0d3df26323</report>
+        <roles_override/>
+        <sys_class_name>sys_sg_chart_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:38:41</sys_created_on>
+        <sys_id>9b8ad5dc1b76b0109b9d99f7b04bcb7e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dashboard demo2</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_chart_screen_9b8ad5dc1b76b0109b9d99f7b04bcb7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:39:47</sys_updated_on>
+        <tool_tip>true</tool_tip>
+        <type>PA</type>
+        <use_last_point>false</use_last_point>
+        <widget display_value="% of incidents resolved same day opened">056ad171ff2302001e68ffffffffffd5</widget>
+    </sys_sg_chart_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=9b8ad5dc1b76b0109b9d99f7b04bcb7e"/>
+</record_update>

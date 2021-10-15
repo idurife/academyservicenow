@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="AlumnoCurso Embedded Item Stream">b220b9881b3a70109b9d99f7b04bcba4</item_stream>
+        <master_item display_value="AlumnoCurso Embedded Master Item">b220b9881b3a70109b9d99f7b04bcbb4</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 00:34:39</sys_created_on>
+        <sys_id>7e20b9881b3a70109b9d99f7b04bcbb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_7e20b9881b3a70109b9d99f7b04bcbb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 00:34:39</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

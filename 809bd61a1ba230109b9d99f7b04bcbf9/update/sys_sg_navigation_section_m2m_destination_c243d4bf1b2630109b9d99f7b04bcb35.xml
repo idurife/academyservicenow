@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE">
+        <navigation_section display_value="Navigation section academy to needit">96a19c3f1b2630109b9d99f7b04bcbc5</navigation_section>
+        <navigation_section_destination display_value="Navigation section destination needit">0852187f1b2630109b9d99f7b04bcbe2</navigation_section_destination>
+        <order/>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-18 23:10:36</sys_created_on>
+        <sys_id>c243d4bf1b2630109b9d99f7b04bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_c243d4bf1b2630109b9d99f7b04bcb35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-18 23:10:36</sys_updated_on>
+    </sys_sg_navigation_section_m2m_destination>
+</record_update>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="ListaAlumnosNavigate Form Icon">a015750b1ba630109b9d99f7b04bcb5a</icon>
+        <item_view/>
+        <name>ListaAlumnosNavigate Form</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:22:09</sys_created_on>
+        <sys_id>2015750b1ba630109b9d99f7b04bcb5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ListaAlumnosNavigate Form</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_form_screen_2015750b1ba630109b9d99f7b04bcb5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:22:09</sys_updated_on>
+        <table>x_652573_academy_alumno</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="ListaAlumnosNavigate Form View Config">6c15750b1ba630109b9d99f7b04bcb57</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=2015750b1ba630109b9d99f7b04bcb5d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_form_screen_2015750b1ba630109b9d99f7b04bcb5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><data_item/><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon display_value="ListaAlumnosNavigate Form Icon">a015750b1ba630109b9d99f7b04bcb5a</icon><item_view/><name>ListaAlumnosNavigate Form</name><override_context_with_data_item>false</override_context_with_data_item><roles_override/><segments_height>medium</segments_height><segments_min_width>medium</segments_min_width><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-16 22:22:09</sys_created_on><sys_id>2015750b1ba630109b9d99f7b04bcb5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ListaAlumnosNavigate Form</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_form_screen_2015750b1ba630109b9d99f7b04bcb5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-16 22:22:09</sys_updated_on><table>x_652573_academy_alumno</table><use_view_config>true</use_view_config><view_config display_value="ListaAlumnosNavigate Form View Config">6c15750b1ba630109b9d99f7b04bcb57</view_config></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=2015750b1ba630109b9d99f7b04bcb5d"/></record_update>]]></payload>
+        <payload_hash>-861261967</payload_hash>
+        <record_name>ListaAlumnosNavigate Form</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:22:09</sys_created_on>
+        <sys_id>e815750b1ba630109b9d99f7b04bcb5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bf0b3f1ed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:22:09</sys_updated_on>
+        <type>Form Screen</type>
+        <update_guid>2415750b1ca63010b8a6a06a6d35055f</update_guid>
+        <update_guid_history>2415750b1ca63010b8a6a06a6d35055f:-861261967</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:31:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>4fbd2abbae964298a0a91ff379cec209</sys_id>
+        <sys_metadata>2015750b1ba630109b9d99f7b04bcb5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ListaAlumnosNavigate Form</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_2015750b1ba630109b9d99f7b04bcb5d</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_2015750b1ba630109b9d99f7b04bcb5d">e815750b1ba630109b9d99f7b04bcb5f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:31:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

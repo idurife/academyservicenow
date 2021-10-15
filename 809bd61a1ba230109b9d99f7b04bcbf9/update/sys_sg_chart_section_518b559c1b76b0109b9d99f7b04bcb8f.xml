@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>f2380d901b36b0109b9d99f7b04bcb0e</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 17:42:55</sys_created_on>
+        <sys_id>518b559c1b76b0109b9d99f7b04bcb8f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Dashboards</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_chart_section_518b559c1b76b0109b9d99f7b04bcb8f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 17:45:11</sys_updated_on>
+        <table/>
+        <title>Dashboards</title>
+        <type>report</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

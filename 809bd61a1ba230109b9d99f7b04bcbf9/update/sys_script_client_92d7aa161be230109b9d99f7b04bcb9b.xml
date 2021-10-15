@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>alumno</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Alumnos por Casillero</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	g_form.clearOptions('alumno');
+   //Type appropriate comment here, and begin script below
+     var ga=new GlideAjax('AcademyUtils');
+   ga.addParam('sysparm_name','obtenerAlumnos');
+      ga.getXML(ajaxprocesador)
+}
+function ajaxprocesador(response){
+     var answer=response.responseXML.documentElement.getAttribute('answer');
+debugger;
+ //  g_form.setValue('short_description',answer);
+	g_form.addOption('alumno','legal1','3165e2921be230109b9d99f7b04bcbc5');
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 18:11:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>92d7aa161be230109b9d99f7b04bcb9b</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Alumnos por Casillero</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_script_client_92d7aa161be230109b9d99f7b04bcb9b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-15 00:32:00</sys_updated_on>
+        <table>x_652573_academy_casillero</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

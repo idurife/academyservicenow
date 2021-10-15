@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Navigate to caller">b7e3f1871ba630109b9d99f7b04bcbcc</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Mostrar Caller</label>
+        <location>trailing_swipe</location>
+        <name>Mostrar Caller</name>
+        <order>10</order>
+        <parent>6c15750b1ba630109b9d99f7b04bcb66</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:33:14</sys_created_on>
+        <sys_id>3e97b58b1ba630109b9d99f7b04bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mostrar Caller</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3e97b58b1ba630109b9d99f7b04bcba5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:33:14</sys_updated_on>
+        <table>x_652573_academy_alumno</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3e97b58b1ba630109b9d99f7b04bcba5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_button_instance_3e97b58b1ba630109b9d99f7b04bcba5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Navigate to caller">b7e3f1871ba630109b9d99f7b04bcbcc</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Mostrar Caller</label><location>trailing_swipe</location><name>Mostrar Caller</name><order>10</order><parent>6c15750b1ba630109b9d99f7b04bcb66</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-16 22:33:14</sys_created_on><sys_id>3e97b58b1ba630109b9d99f7b04bcba5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mostrar Caller</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_button_instance_3e97b58b1ba630109b9d99f7b04bcba5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-16 22:33:14</sys_updated_on><table>x_652573_academy_alumno</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=3e97b58b1ba630109b9d99f7b04bcba5"/></record_update>]]></payload>
+        <payload_hash>-1863459118</payload_hash>
+        <record_name>Mostrar Caller</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:33:14</sys_created_on>
+        <sys_id>7a97b58b1ba630109b9d99f7b04bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bf0be16490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:33:14</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>b297b58b0ea63010a6fa532c56cffba9</update_guid>
+        <update_guid_history>b297b58b0ea63010a6fa532c56cffba9:-1863459118</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:58:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>837ba1bee5c24388bc570474513db240</sys_id>
+        <sys_metadata>3e97b58b1ba630109b9d99f7b04bcba5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mostrar Caller</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_3e97b58b1ba630109b9d99f7b04bcba5</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_3e97b58b1ba630109b9d99f7b04bcba5">7a97b58b1ba630109b9d99f7b04bcba9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:58:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

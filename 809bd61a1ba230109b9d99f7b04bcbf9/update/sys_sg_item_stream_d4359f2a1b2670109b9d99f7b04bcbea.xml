@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Data item Curso">94359f2a1b2670109b9d99f7b04bcb8c</data_item>
+        <interleaved_field/>
+        <name>Curso Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-15 16:05:09</sys_created_on>
+        <sys_id>d4359f2a1b2670109b9d99f7b04bcbea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Curso Item Stream</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_item_stream_d4359f2a1b2670109b9d99f7b04bcbea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-15 16:05:09</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

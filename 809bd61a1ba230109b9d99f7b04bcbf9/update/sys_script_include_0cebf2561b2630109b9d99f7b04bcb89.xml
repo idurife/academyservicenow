@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_652573_academy.AcademyUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>AcademyUtils</name>
+        <script><![CDATA[var AcademyUtils = Class.create();
+AcademyUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    obtenerAlumnos: function () {
+        var alumnos = [];
+        var recordCasillero = {};
+        var recordAlumnos = new GlideRecord('x_652573_academy_alumno');
+        // var casillero = alumno.addJoinQuery('x_652573_academy_casillero');
+        // casillero.addCondition('alumno','NOTIN','fred')
+        recordAlumnos.query();
+
+        while (recordAlumnos.next()) {
+            recordCasillero = {};
+            recordCasillero = new GlideRecord('x_652573_academy_casillero');
+            recordCasillero.get('alumno', recordAlumnos.sys_id);
+            if (gs.nil(recordCasillero.number)) {
+                alumnos.push(recordAlumnos);
+            }
+        }
+        return new global.JSON().encode(alumnos);
+    },
+    type: 'AcademyUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-14 19:36:23</sys_created_on>
+        <sys_id>0cebf2561b2630109b9d99f7b04bcb89</sys_id>
+        <sys_mod_count>45</sys_mod_count>
+        <sys_name>AcademyUtils</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_script_include_0cebf2561b2630109b9d99f7b04bcb89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-14 22:58:51</sys_updated_on>
+    </sys_script_include>
+</record_update>

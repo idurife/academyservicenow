@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_647573_innovate_needit" version="2" view="ssds">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_647573_innovate_needit" element="NULL" name="x_647573_innovate_needit" parent="NULL" relationship="NULL" sys_domain="global" view="6c2d27411bc730109b9d99f7b04bcb27">212da7411bc730109b9d99f7b04bcb6a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_id>e52da7411bc730109b9d99f7b04bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_647573_innovate_needit" element="NULL" name="x_647573_innovate_needit" parent="NULL" relationship="NULL" sys_domain="global" view="6c2d27411bc730109b9d99f7b04bcb27">212da7411bc730109b9d99f7b04bcb6a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_id>692da7411bc730109b9d99f7b04bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_647573_innovate_needit" element="NULL" name="x_647573_innovate_needit" parent="NULL" relationship="NULL" sys_domain="global" view="6c2d27411bc730109b9d99f7b04bcb27">212da7411bc730109b9d99f7b04bcb6a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_id>e92da7411bc730109b9d99f7b04bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_647573_innovate_needit" element="NULL" name="x_647573_innovate_needit" parent="NULL" relationship="NULL" sys_domain="global" view="6c2d27411bc730109b9d99f7b04bcb27">212da7411bc730109b9d99f7b04bcb6a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_id>6d2da7411bc730109b9d99f7b04bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_647573_innovate_needit" element="NULL" name="x_647573_innovate_needit" parent="NULL" relationship="NULL" sys_domain="global" view="6c2d27411bc730109b9d99f7b04bcb27">212da7411bc730109b9d99f7b04bcb6a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_id>e12d2fc11bc730109b9d99f7b04bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_647573_innovate_needit" element="NULL" name="x_647573_innovate_needit" parent="NULL" relationship="NULL" sys_domain="global" view="6c2d27411bc730109b9d99f7b04bcb27">212da7411bc730109b9d99f7b04bcb6a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_id>652d2fc11bc730109b9d99f7b04bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_647573_innovate_needit</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-05 22:30:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>212da7411bc730109b9d99f7b04bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_647573_innovate_needit</sys_name>
+            <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+            <sys_update_name>sys_ui_list_x_647573_innovate_needit_ssds</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-05 22:30:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="ssds" name="ssds">6c2d27411bc730109b9d99f7b04bcb27</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

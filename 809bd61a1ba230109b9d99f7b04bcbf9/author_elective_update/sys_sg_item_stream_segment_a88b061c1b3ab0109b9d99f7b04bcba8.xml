@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="DELETE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Item2 Alumnos</name>
+        <order/>
+        <screen display_value="AlumnoCurso">f31169471b6630109b9d99f7b04bcb71</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 21:12:56</sys_created_on>
+        <sys_id>a88b061c1b3ab0109b9d99f7b04bcba8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item2 Alumnos</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_a88b061c1b3ab0109b9d99f7b04bcba8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 21:12:56</sys_updated_on>
+    </sys_sg_item_stream_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_item_stream_segment_a88b061c1b3ab0109b9d99f7b04bcba8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment"><sys_sg_item_stream_segment action="INSERT_OR_UPDATE"><empty_state/><interleave_order_direction>asc</interleave_order_direction><name>Item2 Alumnos</name><order/><screen display_value="AlumnoCurso">f31169471b6630109b9d99f7b04bcb71</screen><sys_class_name>sys_sg_item_stream_segment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-20 21:12:56</sys_created_on><sys_id>a88b061c1b3ab0109b9d99f7b04bcba8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Item2 Alumnos</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_item_stream_segment_a88b061c1b3ab0109b9d99f7b04bcba8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-20 21:12:56</sys_updated_on></sys_sg_item_stream_segment></record_update>]]></payload>
+        <payload_hash>1076993149</payload_hash>
+        <record_name>Item2 Alumnos</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 21:12:56</sys_created_on>
+        <sys_id>3d9bc21c1b3ab0109b9d99f7b04bcb7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c050e02e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 21:12:56</sys_updated_on>
+        <type>Item Stream Segment</type>
+        <update_guid>359bc21cf43ab0108561e2bc665dd17e</update_guid>
+        <update_guid_history>359bc21cf43ab0108561e2bc665dd17e:1076993149</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 22:18:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_segment">sys_sg_item_stream_segment</sys_db_object>
+        <sys_id>2588c197018e424487edd809219cdf51</sys_id>
+        <sys_metadata>a88b061c1b3ab0109b9d99f7b04bcba8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Item2 Alumnos</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_segment_a88b061c1b3ab0109b9d99f7b04bcba8</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_segment_a88b061c1b3ab0109b9d99f7b04bcba8">3d9bc21c1b3ab0109b9d99f7b04bcb7e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 22:18:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>text_icon_01-43045,text_01-43046,text_02-3907,text_03-22124,text_04-3091,text_05-3092,image_01-20170,text_06-10133,text_07-10134</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Id":28090,"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Margin":{"Top":16,"Bottom":16},"Children":[{"Type":"ViewGroup","Id":12259,"Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Id":42845,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":3484,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","BackgroundColor":"#f1f1f1","CornerRadius":2,"Height":20,"Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":10},"Margin":{"Top":3,"Bottom":3,"Left":8},"TextAlignment":"Left","CellId":"text_icon_01","Id":43045},{"Type":"Text","TextColor":"#333E3F","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Top":2,"Right":8,"Bottom":2,"Left":4},"TextAlignment":"Left","CellId":"text_01","Id":43046}]}]},{"Type":"ViewGroup","Id":42846,"Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Right","CellId":"text_02","Id":3907}]}],"Margin":{"Bottom":8}},{"Type":"Text","Id":22124,"Margin":{"Top":8,"Bottom":8},"TextColor":"#333e3f","Font":{"Weight":"semibold","Size":16},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left","CellId":"text_03"},{"Type":"ViewGroup","Id":12261,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Id":34348,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Text","CellId":"text_04","Id":3091,"TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","TextAlignment":"Left"},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Left":4},"CellId":"text_05","Id":3092,"TextAlignment":"Left"}]}],"Margin":{"Bottom":0,"Top":0}},{"Type":"ViewGroup","Id":12262,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Margin":{"Top":8},"Children":[{"Type":"ViewGroup","Id":24212,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Margin":{},"Children":[{"Type":"Image","CellId":"image_01","Id":20170,"Scaling":"Fill","Height":24,"Width":24,"CornerRadius":12,"Margin":{"Right":8}},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"regular","Size":14},"MaxLines":1,"textStyle":"custom","Margin":{"Right":4},"CellId":"text_06","Id":10133},{"Type":"Text","TextColor":"#637274","Font":{"Weight":"semibold","Size":14},"MaxLines":1,"textStyle":"custom","CellId":"text_07","Id":10134}]}]}]}</item_view_json>
+        <name>pruebaview</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 17:09:49</sys_created_on>
+        <sys_id>383d60c71ba230109b9d99f7b04bcb4c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pruebaview</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_item_view_383d60c71ba230109b9d99f7b04bcb4c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 17:09:49</sys_updated_on>
+        <table>x_652573_academy_alumno</table>
+        <ui_styles>97154dbe1baa70109b9d99f7b04bcb6a</ui_styles>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=383d60c71ba230109b9d99f7b04bcb4c"/>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="Navigate to caller">b7e3f1871ba630109b9d99f7b04bcbcc</button>
+        <button_table>x_652573_academy_alumno</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="caller_sys_id">6153f9871ba630109b9d99f7b04bcb67</destination_ui_parameter>
+        <source_field>request_for.sys_id</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:17:11</sys_created_on>
+        <sys_id>73e3f1871ba630109b9d99f7b04bcbd2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>6153f9871ba630109b9d99f7b04bcb67</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_73e3f1871ba630109b9d99f7b04bcbd2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:53:54</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_sg_redirect_dest_field_73e3f1871ba630109b9d99f7b04bcbd2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="Navigate to caller">b7e3f1871ba630109b9d99f7b04bcbcc</button><button_table>x_652573_academy_alumno</button_table><constant_value/><destination_ui_parameter display_value="caller_sys_id">6153f9871ba630109b9d99f7b04bcb67</destination_ui_parameter><source_field>request_for.sys_id</source_field><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-16 22:17:11</sys_created_on><sys_id>73e3f1871ba630109b9d99f7b04bcbd2</sys_id><sys_mod_count>2</sys_mod_count><sys_name>6153f9871ba630109b9d99f7b04bcb67</sys_name><sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package><sys_policy/><sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope><sys_update_name>sys_sg_redirect_dest_field_73e3f1871ba630109b9d99f7b04bcbd2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-16 22:53:54</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>257150284</payload_hash>
+        <record_name>6153f9871ba630109b9d99f7b04bcb67</record_name>
+        <reverted_from/>
+        <source>0c9bd61a1ba230109b9d99f7b04bcbfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-16 22:53:54</sys_created_on>
+        <sys_id>ed5cb1cf1ba630109b9d99f7b04bcbdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17bf0d1002b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-16 22:53:54</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>295cb1cfe6a63010c3bf4b9ce0316fdf</update_guid>
+        <update_guid_history>295cb1cfe6a63010c3bf4b9ce0316fdf:257150284,dd7431c749a63010e61522149daa8ce2:-1044292777,3be335c7aca63010de1772e15904bba4:-2009341902</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-21 14:40:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>68e59a2fdf8546788876321479a9aa40</sys_id>
+        <sys_metadata>73e3f1871ba630109b9d99f7b04bcbd2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6153f9871ba630109b9d99f7b04bcb67</sys_name>
+        <sys_package display_value="Academy" source="x_652573_academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Academy">809bd61a1ba230109b9d99f7b04bcbf9</sys_scope>
+        <sys_scope_delete display_value="">926ea552e4aa4eceaa38eb61acd18dc1</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_73e3f1871ba630109b9d99f7b04bcbd2</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_73e3f1871ba630109b9d99f7b04bcbd2">ed5cb1cf1ba630109b9d99f7b04bcbdf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 14:40:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
